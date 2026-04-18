@@ -159,15 +159,15 @@
     },
     {
       "name": "flutter_launcher_icons",
-      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.13.1",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.14.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-4.0.0",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-6.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.8"
     },
     {
       "name": "flutter_plugin_android_lifecycle",
@@ -195,9 +195,9 @@
     },
     {
       "name": "go_router",
-      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-14.8.1",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-17.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.9"
     },
     {
       "name": "hooks",
@@ -309,9 +309,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/lints-4.0.0",
+      "rootUri": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache/hosted/pub.dev/lints-6.1.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.8"
     },
     {
       "name": "logging",
